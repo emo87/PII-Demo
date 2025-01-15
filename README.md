@@ -15,6 +15,6 @@ This project provides a practical example of reading a CSV file, analyzing its c
 
 ## 📦 Setup  
 1. Clone the repository:  
-   ```bash
+
    git clone https://github.com/emo87/PII-Demo.git
-   cd azure-pii-detection-demo
+
