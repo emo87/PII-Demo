@@ -14,7 +14,7 @@ This project provides a practical example of reading a CSV file, analyzing its c
 - Azure Cognitive Services  
 
 ## 📦 Setup  
-1. Clone the repository:  
+ Clone the repository:  
 
    git clone https://github.com/emo87/PII-Demo.git
 
